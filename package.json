@@ -59,7 +59,8 @@
     "webpack-stream": "^5.2.1"
   },
   "dependencies": {
-    "fs-extra": "^9.0.1"
+    "fs-extra": "^9.0.1",
+    "node": "^14.18.0"
   },
   "engines": {
     "node": ">=10"
